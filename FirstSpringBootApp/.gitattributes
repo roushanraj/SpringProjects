@@ -1,2 +1,4 @@
 # direct Spring
 *.* linguist-lanuage=Spring
+* linguist-vendored
+*.java linguist-vendored=false
